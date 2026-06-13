@@ -1,2 +1,2 @@
-# project-2-counter
+#Vanilla Javascript Projects
 functionality of the counter
